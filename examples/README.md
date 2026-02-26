@@ -2,18 +2,13 @@
 
 Esta pasta contém exemplos de implementação para cada etapa do desafio.
 
-## Vídeos de Referência
-
-> 🎬 Em breve serão disponibilizados vídeos demonstrando a implementação completa de cada etapa, com foco no raciocínio por trás de cada decisão.
-
 | Etapa | Descrição | Link |
 |-------|-----------|------|
-| Documentação | Como definir o caso de uso e arquitetura | [em breve] |
-| Base de Conhecimento | Como usar os dados mockados | [em breve] |
-| Prompts | Como criar prompts eficazes | [em breve] |
-| Aplicação | Como criar o chatbot funcional | [em breve] |
-| Métricas | Como avaliar seu agente | [em breve] |
-| Pitch | Como apresentar sua solução | [em breve] |
+| Documentação | Como definir o caso de uso e arquitetura | [[Link](https://github.com/pedrougusto/bootcamp-IA-agent-mark-martech/tree/main/docs)] |
+| Base de Conhecimento | Como usar os dados mockados | [Link](https://github.com/pedrougusto/bootcamp-IA-agent-mark-martech/blob/main/docs/02-base-conhecimento.md) |
+| Prompts | Como criar prompts eficazes | [Link](https://github.com/pedrougusto/bootcamp-IA-agent-mark-martech/blob/main/docs/03-prompts.md) |
+| Aplicação | Como criar o chatbot funcional | [Link](https://github.com/pedrougusto/bootcamp-IA-agent-mark-martech/blob/main/src/README.md) |
+| Métricas | Como avaliar seu agente | [Link](https://github.com/pedrougusto/bootcamp-IA-agent-mark-martech/blob/main/docs/04-metricas.md) |
 
 ## Exemplo de Implementação Simples
 
